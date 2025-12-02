@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23ec08b400387b1428acdae291318a7b
+timeCreated: 1439277556
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 6901
+  packageName: StonyGroundPackage
+  packageVersion: 1.0
+  assetPath: Assets/StonyGroundPackage/StonyGrounds/Prefabs/StonyGround1.prefab
+  uploadId: 76510

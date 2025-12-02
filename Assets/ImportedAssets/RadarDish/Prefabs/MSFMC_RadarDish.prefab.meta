@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eeade5eac92f39e439a9bf65b8f4007c
+timeCreated: 1451190857
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52701
+  packageName: MSFMC - Radar Dish
+  packageVersion: 2.0
+  assetPath: Assets/MSFMC_RadarDish/Prefabs/MSFMC_RadarDish.prefab
+  uploadId: 97186

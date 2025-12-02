@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f792aba593251b04589db8456eb4da50
+timeCreated: 1441137326
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 45186
+  packageName: Sci-fi cargo container
+  packageVersion: 1.0
+  assetPath: Assets/Sci-fi_container/sci-fi_container.prefab
+  uploadId: 79560

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a232e04fd0603294f9006ad263f856e0
+timeCreated: 1451190737
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52701
+  packageName: MSFMC - Radar Dish
+  packageVersion: 2.0
+  assetPath: Assets/MSFMC_RadarDish/3D Models/Materials/radarDish_Texture01.mat
+  uploadId: 97186
